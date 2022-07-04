@@ -26,4 +26,4 @@ print(a, b)
 x=input().split()
 m=map(int,x)
 a,b=m
-print(a,    b)
+print(a,b)
