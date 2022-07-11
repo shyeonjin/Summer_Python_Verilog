@@ -1,7 +1,8 @@
 `timescale 1ns/1ps
 
 module nand_gate (
-    first,,second,
+    first,
+    second,
     out
 );
 
