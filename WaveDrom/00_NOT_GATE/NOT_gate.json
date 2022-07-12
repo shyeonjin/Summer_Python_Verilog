@@ -1,0 +1,12 @@
+{ "signal" : 
+ [
+  ['NOT',
+  	['in',
+   		{ "name": "input", "wave": "l.h." }
+  	],
+   {},
+  	['out',
+   		{ "name": "output", "wave":"h.l." },
+   	]
+  ]
+ ]}
