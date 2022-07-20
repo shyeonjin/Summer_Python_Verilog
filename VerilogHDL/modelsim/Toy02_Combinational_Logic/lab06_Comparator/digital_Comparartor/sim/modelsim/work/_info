@@ -1,0 +1,100 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/summer_project/VerilogHDL/modelsim/lab01_not_gate_dff/sim/modelsim
+vdigital_Comparartor
+Z1 !s110 1657987893
+!i10b 1
+!s100 kO1_904dQ9a8SMnOBnH]B2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3]T3PDMHz4j_dn?o:QC090
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dc:/summer_project/verilogHDL/modelsim/Toy02_Combinational_Logic/lab06_Comparator/digital_Comparartor/sim/modelsim
+w1657899805
+8../../src/rtl/digital_Comparartor.v
+F../../src/rtl/digital_Comparartor.v
+!i122 5
+L0 3 16
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1657987893.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/digital_Comparartor.v|
+Z7 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z8 tCvgOpt 0
+ndigital_@comparartor
+vnot_gate
+!s110 1657377607
+!i10b 1
+!s100 `<:QLb7gOdK@W^XEb@BL42
+R2
+ITI5gU4L8nDTD4g56DBE]<3
+R3
+dc:/summer_project/VerilogHDL/modelsim/lab00_not_gate/sim/modelsim
+w1657255252
+8../../src/rtl/not_gate.v
+F../../src/rtl/not_gate.v
+!i122 3
+L0 3 11
+R5
+r1
+!s85 0
+31
+!s108 1657377607.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/not_gate.v|
+R7
+!i113 1
+R8
+vnot_with_dff
+!s110 1657254747
+!i10b 1
+!s100 eGCnaW7WY1W57>IMCX2`k3
+R2
+I6h?CcGeljUKSRJAgazVJJ2
+R3
+R0
+w1657091657
+8../../src/rtl/not_with_dff.v
+F../../src/rtl/not_with_dff.v
+!i122 1
+L0 3 41
+R5
+r1
+!s85 0
+31
+!s108 1657254747.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/not_with_dff.v|
+R7
+!i113 1
+R8
+vtestbench
+R1
+!i10b 1
+!s100 Z2eA21fA0eYH104lSEnJ91
+R2
+I>^Fn<R2a51cN_1`beFZi`0
+R3
+R4
+w1657899698
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+!i122 5
+L0 3 31
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 ../../testbench/testbench.v|../../src/rtl/digital_Comparartor.v|
+R7
+!i113 1
+R8

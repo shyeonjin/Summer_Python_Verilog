@@ -1,0 +1,146 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/summer_project/VerilogHDL/modelsim/lab01_not_gate_dff/sim/modelsim
+vEncoder
+!s110 1657775532
+!i10b 1
+!s100 fQK`3`9UTRD;ZSNEXh0Xl2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I>h0C6k2PWb0F[34eM<D3n1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+dc:/summer_project/VerilogHDL/modelsim/Toy02_Combinational_Logic/lab02_8_2_Encoder/sim/modelsim
+w1657775259
+8../../src/rtl/Encoder.v
+F../../src/rtl/Encoder.v
+!i122 7
+Z3 L0 3 58
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1657775532.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/Encoder.v|
+Z5 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z6 tCvgOpt 0
+n@encoder
+vEncoder_I
+Z7 !s110 1658108026
+!i10b 1
+!s100 CZ0B_aNQniGhD>gM367`72
+R1
+IClJM?d62L@MjiMJkO0V9c2
+R2
+Z8 dc:/summer_project/verilogHDL/modelsim/Toy02_Combinational_Logic/lab02_Encoder/Encoder_I/sim/modelsim
+w1657807316
+8../../src/rtl/Encoder_I.v
+F../../src/rtl/Encoder_I.v
+!i122 13
+R3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1658108026.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/Encoder_I.v|
+R5
+!i113 1
+R6
+n@encoder_@i
+vfour_bit_PARITY
+!s110 1657642285
+!i10b 1
+!s100 5Og?=J@iMZ2D4;;eP42LD3
+R1
+IX[KIM92g6ob?9HSk>llZW2
+R2
+dc:/summer_project/VerilogHDL/modelsim/lab14_four_bit_PARITY/sim/modelsim
+w1657642280
+8../../src/rtl/four_bit_PARITY.v
+F../../src/rtl/four_bit_PARITY.v
+!i122 5
+L0 3 12
+R4
+r1
+!s85 0
+31
+!s108 1657642285.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/four_bit_PARITY.v|
+R5
+!i113 1
+R6
+nfour_bit_@p@a@r@i@t@y
+vnot_gate
+!s110 1657377607
+!i10b 1
+!s100 `<:QLb7gOdK@W^XEb@BL42
+R1
+ITI5gU4L8nDTD4g56DBE]<3
+R2
+dc:/summer_project/VerilogHDL/modelsim/lab00_not_gate/sim/modelsim
+w1657255252
+8../../src/rtl/not_gate.v
+F../../src/rtl/not_gate.v
+!i122 3
+L0 3 11
+R4
+r1
+!s85 0
+31
+!s108 1657377607.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/not_gate.v|
+R5
+!i113 1
+R6
+vnot_with_dff
+!s110 1657254747
+!i10b 1
+!s100 eGCnaW7WY1W57>IMCX2`k3
+R1
+I6h?CcGeljUKSRJAgazVJJ2
+R2
+R0
+w1657091657
+8../../src/rtl/not_with_dff.v
+F../../src/rtl/not_with_dff.v
+!i122 1
+L0 3 41
+R4
+r1
+!s85 0
+31
+!s108 1657254747.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/not_with_dff.v|
+R5
+!i113 1
+R6
+vtestbench
+R7
+!i10b 1
+!s100 B><]6AHf6?Tf^HAVikojY1
+R1
+I`58jPmZDAF[Y=MCj<Oi?P0
+R2
+R8
+w1657807525
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+!i122 13
+L0 3 23
+R4
+r1
+!s85 0
+31
+R9
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/Encoder_I.v|
+R5
+!i113 1
+R6

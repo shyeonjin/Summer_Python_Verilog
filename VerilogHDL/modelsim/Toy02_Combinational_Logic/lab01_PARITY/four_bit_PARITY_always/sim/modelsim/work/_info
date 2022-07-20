@@ -1,0 +1,123 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/summer_project/VerilogHDL/modelsim/lab01_not_gate_dff/sim/modelsim
+vfour_bit_PARITY
+!s110 1657778192
+!i10b 1
+!s100 n9=[LBRE=D]jNZM6P9Nhi0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I;PT?V@?3:m=Sf<J@RciX[1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+dc:/summer_project/verilogHDL/modelsim/Toy02_Combinational_Logic/lab01_four_bit_PARITY/sim/modelsim
+w1657778152
+8../../src/rtl/four_bit_PARITY.v
+F../../src/rtl/four_bit_PARITY.v
+!i122 8
+L0 3 12
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1657778192.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/four_bit_PARITY.v|
+Z4 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z5 tCvgOpt 0
+nfour_bit_@p@a@r@i@t@y
+vfour_bit_PARITY_always
+Z6 !s110 1658107963
+!i10b 1
+!s100 :B;_NWoeC4c_@CaCPE?Kl1
+R1
+I^7Hojk4[<^[=2EEjUk5Em3
+R2
+Z7 dc:/summer_project/verilogHDL/modelsim/Toy02_Combinational_Logic/lab01_PARITY/four_bit_PARITY_always/sim/modelsim
+w1657779586
+8../../src/rtl/four_bit_PARITY_always.v
+F../../src/rtl/four_bit_PARITY_always.v
+!i122 14
+L0 3 39
+R3
+r1
+!s85 0
+31
+Z8 !s108 1658107963.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/four_bit_PARITY_always.v|
+R4
+!i113 1
+R5
+nfour_bit_@p@a@r@i@t@y_always
+vnot_gate
+!s110 1657377607
+!i10b 1
+!s100 `<:QLb7gOdK@W^XEb@BL42
+R1
+ITI5gU4L8nDTD4g56DBE]<3
+R2
+dc:/summer_project/VerilogHDL/modelsim/lab00_not_gate/sim/modelsim
+w1657255252
+8../../src/rtl/not_gate.v
+F../../src/rtl/not_gate.v
+!i122 3
+L0 3 11
+R3
+r1
+!s85 0
+31
+!s108 1657377607.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/not_gate.v|
+R4
+!i113 1
+R5
+vnot_with_dff
+!s110 1657254747
+!i10b 1
+!s100 eGCnaW7WY1W57>IMCX2`k3
+R1
+I6h?CcGeljUKSRJAgazVJJ2
+R2
+R0
+w1657091657
+8../../src/rtl/not_with_dff.v
+F../../src/rtl/not_with_dff.v
+!i122 1
+L0 3 41
+R3
+r1
+!s85 0
+31
+!s108 1657254747.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/not_with_dff.v|
+R4
+!i113 1
+R5
+vtestbench
+R6
+!i10b 1
+!s100 bWYRYjHX^JQX6^XKBYg>70
+R1
+I0f[c<Eg3zTQSOFVYdMRG32
+R2
+R7
+w1657895993
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+!i122 14
+L0 3 35
+R3
+r1
+!s85 0
+31
+R8
+Z9 !s107 ../../testbench/testbench.v|../../src/rtl/four_bit_PARITY_always.v|
+R4
+!i113 1
+R5
