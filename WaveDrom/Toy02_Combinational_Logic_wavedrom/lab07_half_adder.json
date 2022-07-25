@@ -1,0 +1,14 @@
+{ "signal" : 
+ [
+  ['half_adder',
+  	['input',
+   		{ "name": "input_A", "wave": "l.h." },
+     	{ "name": "input_B", "wave":"lhlh"}
+  	],
+   {},
+  	['out',
+   		{ "name": "output", "wave":"hl.." },
+        { "name":"C_OUT","wave":"l..h"}
+   	]
+  ]
+ ]}

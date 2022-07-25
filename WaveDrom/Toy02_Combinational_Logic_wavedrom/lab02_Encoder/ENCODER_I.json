@@ -1,0 +1,19 @@
+{ "signal" : 
+ [
+  ['ENCODER',
+  	['input',
+     { "name": "IN0", "wave": "hl......"},
+     { "name": "IN1", "wave": "lhl....."},
+     { "name": "IN2", "wave": "l.hl...."},
+     { "name": "IN3", "wave": "l..hl..."},
+     { "name": "IN4", "wave": "l...hl.."},
+     { "name": "IN5", "wave": "l....hl."},
+     { "name": "IN6", "wave": "l.....hl"},
+     { "name": "IN7", "wave": "l......h"}
+     
+  	],
+   {},
+  	['out',
+     { "name":"out","wave":"========",data:["000","001","010","011","100","101","110","111"] }
+   	]
+  ]

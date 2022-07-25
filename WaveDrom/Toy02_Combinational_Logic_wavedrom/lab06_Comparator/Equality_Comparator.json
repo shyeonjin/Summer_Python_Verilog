@@ -1,0 +1,16 @@
+{ "signal" : 
+ [
+  ['Equality_Comparator',
+  	['input',
+   		{ "name": "A1", "wave": "l.......h......." },
+     	{ "name": "A0", "wave":"l...h...l...h..."},
+     	{ "name": "B1", "wave": "l.h.l.h.l.h.l.h." },
+     	{ "name": "B0", "wave":"lhlhlhlhlhlhlhlh"}
+     
+  	],
+   {},
+  	['out',
+   		{ "name": "out", "wave":"hl...hl...hl...h" }
+   	]
+  ]
+ ]}

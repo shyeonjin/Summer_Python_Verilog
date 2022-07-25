@@ -1,0 +1,16 @@
+{ "signal" : 
+ [
+  ['Multiplexer',
+  	['input',
+     { "name": "A", "wave": "=...",data:"01" },
+     { "name": "B", "wave": "=...",data:"23" },
+     { "name": "C", "wave": "=...",data:"45" },
+     { "name": "D", "wave": "=...",data:"67" },
+     { "name": "Sel", "wave": "====",data:["0","1","2","3"] }
+  	],
+   {},
+  	['out',
+     { "name":"out","wave":"====",data:["01","23","45","67"] }
+   	]
+  ]
+ ]}
