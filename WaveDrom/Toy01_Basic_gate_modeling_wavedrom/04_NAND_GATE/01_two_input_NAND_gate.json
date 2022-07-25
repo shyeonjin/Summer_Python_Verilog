@@ -1,0 +1,13 @@
+{ "signal" : 
+ [
+  ['2input NAND',
+  	['input',
+   		{ "name": "input_A", "wave": "l.h." },
+     	{ "name": "input_B", "wave":"lhlh"}
+  	],
+   {},
+  	['out',
+   		{ "name": "output", "wave":"h..l" },
+   	]
+  ]
+ ]}
