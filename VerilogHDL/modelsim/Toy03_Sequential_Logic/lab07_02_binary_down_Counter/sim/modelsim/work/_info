@@ -1,0 +1,190 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/summer_project/VerilogHDL/modelsim/lab01_not_gate_dff/sim/modelsim
+vbinary_down_Counter
+Z1 !s110 1658817070
+!i10b 1
+!s100 0=;=eV<c72]T9zc6e^IFn1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IaNiFT?[_03ehSZ6`I7ZD70
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dc:/summer_project/verilogHDL/modelsim/Toy03_Sequential_Logic/lab07_02_binary_down_Counter/sim/modelsim
+Z5 w1658762596
+Z6 8../../src/rtl/binary_down_counter.v
+Z7 F../../src/rtl/binary_down_counter.v
+!i122 17
+L0 3 14
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1658817070.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/binary_down_counter.v|
+Z10 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z11 tCvgOpt 0
+nbinary_down_@counter
+vhalf_adder
+!s110 1657896738
+!i10b 1
+!s100 PiQ]OkVGTHNUc:V5GZJa@1
+R2
+Iez>^n<HP6Q12lLS0]4DFU0
+R3
+Z12 dC:/summer_project/VerilogHDL/modelsim/Toy02_Combinational_Logic/lab07_half_Adder/sim/modelsim
+w1657896734
+Z13 8../../src/rtl/half_Adder.v
+Z14 F../../src/rtl/half_Adder.v
+!i122 11
+Z15 L0 3 13
+R8
+r1
+!s85 0
+31
+!s108 1657896738.000000
+Z16 !s107 ../../testbench/testbench.v|../../src/rtl/half_Adder.v|
+R10
+!i113 1
+R11
+vhalfadder
+!s110 1657895379
+!i10b 1
+!s100 25M0XoTDXVS7c<VA1Vn=90
+R2
+IGZUl0UX6<3^=48Q?@:<Dd3
+R3
+R12
+w1657895339
+R13
+R14
+!i122 9
+R15
+R8
+r1
+!s85 0
+31
+!s108 1657895378.000000
+R16
+R10
+!i113 1
+R11
+vMUX
+!s110 1657721574
+!i10b 1
+!s100 Qng>5YOkGhUK]^jJ=D2dK1
+R2
+I:[J`]<aPl2]=YD0U=581l3
+R3
+dc:/summer_project/verilogHDL/modelsim/Toy02_Combinational_Logic/lab07_half_Adder/sim/modelsim
+w1657721374
+R13
+R14
+!i122 5
+L0 3 12
+R8
+r1
+!s85 0
+31
+!s108 1657721574.000000
+R16
+R10
+!i113 1
+R11
+n@m@u@x
+vnot_gate
+!s110 1657377607
+!i10b 1
+!s100 `<:QLb7gOdK@W^XEb@BL42
+R2
+ITI5gU4L8nDTD4g56DBE]<3
+R3
+dc:/summer_project/VerilogHDL/modelsim/lab00_not_gate/sim/modelsim
+w1657255252
+8../../src/rtl/not_gate.v
+F../../src/rtl/not_gate.v
+!i122 3
+L0 3 11
+R8
+r1
+!s85 0
+31
+!s108 1657377607.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/not_gate.v|
+R10
+!i113 1
+R11
+vnot_with_dff
+!s110 1657254747
+!i10b 1
+!s100 eGCnaW7WY1W57>IMCX2`k3
+R2
+I6h?CcGeljUKSRJAgazVJJ2
+R3
+R0
+w1657091657
+8../../src/rtl/not_with_dff.v
+F../../src/rtl/not_with_dff.v
+!i122 1
+L0 3 41
+R8
+r1
+!s85 0
+31
+!s108 1657254747.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/not_with_dff.v|
+R10
+!i113 1
+R11
+vT_FF
+R1
+!i10b 1
+!s100 oT;0V2K9L`X?Z@2e0E1kM3
+R2
+IgWAh>nS28BFh>6VQfcmGb2
+R3
+R4
+R5
+R6
+R7
+!i122 17
+L0 19 21
+R8
+r1
+!s85 0
+31
+R9
+Z17 !s107 ../../testbench/testbench.v|../../src/rtl/binary_down_counter.v|
+R10
+!i113 1
+R11
+n@t_@f@f
+vtestbench
+R1
+!i10b 1
+!s100 ^onX4B`l???FCB>Ej4d901
+R2
+IX>B068QK@aUh56R`XbTc@2
+R3
+R4
+w1658762467
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+!i122 17
+L0 3 22
+R8
+r1
+!s85 0
+31
+R9
+R17
+R10
+!i113 1
+R11

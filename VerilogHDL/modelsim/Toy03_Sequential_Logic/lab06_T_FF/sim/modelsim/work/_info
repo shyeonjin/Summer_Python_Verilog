@@ -1,0 +1,190 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/summer_project/VerilogHDL/modelsim/lab01_not_gate_dff/sim/modelsim
+vD_FF
+!s110 1658728831
+!i10b 1
+!s100 A8^2aBGz0[;33Q]?:O]c62
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXndGzLg=<lfceHR?9Q<<S3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+dc:/summer_project/verilogHDL/modelsim/Toy03_Sequential_Logic/lab06_T_FF/sim/modelsim
+w1658728826
+8../../src/rtl/D_FF.v
+F../../src/rtl/D_FF.v
+!i122 13
+Z3 L0 3 35
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1658728831.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/D_FF.v|
+Z5 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z6 tCvgOpt 0
+n@d_@f@f
+vhalf_adder
+!s110 1657896738
+!i10b 1
+!s100 PiQ]OkVGTHNUc:V5GZJa@1
+R1
+Iez>^n<HP6Q12lLS0]4DFU0
+R2
+Z7 dC:/summer_project/VerilogHDL/modelsim/Toy02_Combinational_Logic/lab07_half_Adder/sim/modelsim
+w1657896734
+Z8 8../../src/rtl/half_Adder.v
+Z9 F../../src/rtl/half_Adder.v
+!i122 11
+Z10 L0 3 13
+R4
+r1
+!s85 0
+31
+!s108 1657896738.000000
+Z11 !s107 ../../testbench/testbench.v|../../src/rtl/half_Adder.v|
+R5
+!i113 1
+R6
+vhalfadder
+!s110 1657895379
+!i10b 1
+!s100 25M0XoTDXVS7c<VA1Vn=90
+R1
+IGZUl0UX6<3^=48Q?@:<Dd3
+R2
+R7
+w1657895339
+R8
+R9
+!i122 9
+R10
+R4
+r1
+!s85 0
+31
+!s108 1657895378.000000
+R11
+R5
+!i113 1
+R6
+vMUX
+!s110 1657721574
+!i10b 1
+!s100 Qng>5YOkGhUK]^jJ=D2dK1
+R1
+I:[J`]<aPl2]=YD0U=581l3
+R2
+dc:/summer_project/verilogHDL/modelsim/Toy02_Combinational_Logic/lab07_half_Adder/sim/modelsim
+w1657721374
+R8
+R9
+!i122 5
+L0 3 12
+R4
+r1
+!s85 0
+31
+!s108 1657721574.000000
+R11
+R5
+!i113 1
+R6
+n@m@u@x
+vnot_gate
+!s110 1657377607
+!i10b 1
+!s100 `<:QLb7gOdK@W^XEb@BL42
+R1
+ITI5gU4L8nDTD4g56DBE]<3
+R2
+dc:/summer_project/VerilogHDL/modelsim/lab00_not_gate/sim/modelsim
+w1657255252
+8../../src/rtl/not_gate.v
+F../../src/rtl/not_gate.v
+!i122 3
+L0 3 11
+R4
+r1
+!s85 0
+31
+!s108 1657377607.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/not_gate.v|
+R5
+!i113 1
+R6
+vnot_with_dff
+!s110 1657254747
+!i10b 1
+!s100 eGCnaW7WY1W57>IMCX2`k3
+R1
+I6h?CcGeljUKSRJAgazVJJ2
+R2
+R0
+w1657091657
+8../../src/rtl/not_with_dff.v
+F../../src/rtl/not_with_dff.v
+!i122 1
+L0 3 41
+R4
+r1
+!s85 0
+31
+!s108 1657254747.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/not_with_dff.v|
+R5
+!i113 1
+R6
+vT_FF
+Z12 !s110 1658761326
+!i10b 1
+!s100 4CS5QcRb3Wez[I58`BPhE2
+R1
+IQPZPoS[aM7Q2C8VgodfLW2
+R2
+Z13 dC:/summer_project/VerilogHDL/modelsim/Toy03_Sequential_Logic/lab06_T_FF/sim/modelsim
+w1658733425
+8../../src/rtl/T_FF.v
+F../../src/rtl/T_FF.v
+!i122 22
+R3
+R4
+r1
+!s85 0
+31
+Z14 !s108 1658761326.000000
+!s107 ../../testbench/testbench.v|../../src/rtl/T_FF.v|
+R5
+!i113 1
+R6
+n@t_@f@f
+vtestbench
+R12
+!i10b 1
+!s100 I]SOlVLGCYcldKQ7XD?6O2
+R1
+IoZg;U`HfnXG<[T6el8D[]1
+R2
+R13
+w1658761315
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+!i122 22
+L0 3 31
+R4
+r1
+!s85 0
+31
+R14
+Z15 !s107 ../../testbench/testbench.v|../../src/rtl/T_FF.v|
+R5
+!i113 1
+R6
