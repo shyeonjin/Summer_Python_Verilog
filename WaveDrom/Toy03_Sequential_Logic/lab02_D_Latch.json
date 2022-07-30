@@ -1,0 +1,14 @@
+{ "signal" : 
+ [
+  ['D Latch',
+  	['input',
+    { "name":"D","wave":"lh"}
+    ],
+   {},
+  	['out',
+     { "name": "Q", "wave": "lh" },
+     { "name": "Qbar", "wave": "hl"}
+     
+   	]
+  ]
+ ]}

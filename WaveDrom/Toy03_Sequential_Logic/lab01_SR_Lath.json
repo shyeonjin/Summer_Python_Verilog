@@ -1,0 +1,15 @@
+{ "signal" : 
+ [
+  ['nor_SR Latch',
+  	['input',
+    { "name":"S","wave":"l.h."},
+    { "name": "R", "wave": "lhlh"}
+  	],
+   {},
+  	['out',
+     { "name": "Q", "wave": "xlhl" },
+     { "name": "Qbar", "wave": "xhl."}
+     
+   	]
+  ]
+ ]}

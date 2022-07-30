@@ -1,0 +1,17 @@
+{ "signal" : 
+ [
+  ['JK_FF',
+  	['input',
+    { "name":"J","wave":"l.nh.pl...."},
+    { "name":"k","wave":"l...nh..pl."},
+    { "name":"clk","wave":"P.........."},
+    { "name": "rst", "wave": "lnh........"}
+  	],
+   {},
+  	['out',
+     { "name": "Q", "wave": "l..h.l....." },
+     { "name": "Qbar", "wave": "l.hl.h....."}
+     
+   	]
+  ]
+ ]}

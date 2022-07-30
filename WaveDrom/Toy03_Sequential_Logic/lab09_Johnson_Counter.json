@@ -1,0 +1,13 @@
+{ "signal" : 
+ [
+  ['Johnson_Counter',
+  	['input',
+     { "name": "clk", "wave": "P......."},
+     { "name": "rst", "wave": "lnh....." }
+  	],
+   {},
+  	['out',
+     { "name":"out","wave":"=.======",data:["000","100","110","111","011","001","000"] }
+   	]
+  ]
+ ]}

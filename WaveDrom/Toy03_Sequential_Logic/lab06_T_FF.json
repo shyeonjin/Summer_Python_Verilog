@@ -1,0 +1,16 @@
+{ "signal" : 
+ [
+  ['T_FF',
+  	['input',
+    { "name":"T","wave":"l...nh.pl.."},
+    { "name":"clk","wave":"P.........."},
+    { "name": "rst", "wave": "lnh........"}
+  	],
+   {},
+  	['out',
+     { "name": "Q", "wave": "l....hlh..." },
+     { "name": "Qbar", "wave": "l.h..lhl..."}
+     
+   	]
+  ]
+ ]}

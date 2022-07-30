@@ -1,0 +1,17 @@
+{ "signal" : 
+ [
+  ['SR Latch',
+  	['input',
+    { "name":"S","wave":"lnhpl.nh.p"},
+    { "name": "R", "wave": "l...nh.pl."},
+    { "name": "CLK", "wave": "P........."},
+    { "name": "rst", "wave": "lnh......."}
+  	],
+   {},
+  	['out',
+     { "name": "Q", "wave": "l.h..l..h." },
+     { "name": "Qbar", "wave": "h.l..h..l."}
+     
+   	]
+  ]
+ ]}
